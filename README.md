@@ -14,3 +14,6 @@ This repository contains components developed as part of Dr. Mahanaz Syed’s re
 - **Structured extraction of eligibility-relevant evidence**
 - **Modular architecture** for model/criteria/guardrails customization
 - **FHIR®-compatible outputs** for integration with FETCH and clinical trial workflows
+
+## Data Privacy Notice
+This repository contains only non-PHI source code and synthetic or illustrative example files. No protected health information (PHI), identifiable patient data, or confidential institutional information is stored or distributed through this repository.
